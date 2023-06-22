@@ -1,2 +1,2 @@
 # Matrix-operations
-operations performed over matrices using python
+Operations performed over matrices using python
